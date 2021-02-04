@@ -1,6 +1,6 @@
 # Bio Hacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->This list aims to help starters as well as seasoned Bio Hacker to find everything related to Biohacking at one place. Curated by [Siddhanth Dwivedi aka Mafiaguy](htttps://github.com/mafiaguy)
+This list aims to help starters as well as seasoned Bio Hacker to find everything related to Biohacking at one place. Curated by [Siddhanth Dwivedi aka Mafiaguy](htttps://github.com/mafiaguy)
 
 > This is   a primer with the maximum amount of data as I may realize on completely different aspects of the biohacking community. I am not an expert, so I welcome any input. If you find it useful please share it with others.
 
