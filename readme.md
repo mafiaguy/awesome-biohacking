@@ -1,4 +1,4 @@
-# Bio Hacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome BioHacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This list aims to help starters as well as seasoned Bio Hacker to find everything related to Biohacking at one place. 
 
