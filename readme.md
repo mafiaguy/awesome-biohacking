@@ -122,6 +122,9 @@ https://www.the-odin.com/how-to-get-started/
 
 https://github.com/BioHackAcademy
 
+# Software
+- [Bloodboy](https://github.com/mizoloff/bloodboy) - Privacy-first browser-based blood test tracker with local storage and visualization. No account required.
+
 # References 
 http://www.gaudi.ch/GaudiLabs/?page_id=19
 
