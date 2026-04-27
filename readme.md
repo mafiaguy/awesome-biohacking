@@ -130,3 +130,5 @@ https://openwetware.org/wiki/DIYbio/FAQ/Equipment
 http://bio.academany.org/doc/classes
 
 https://syntheticbiology1.com/courses/
+
+https://www.biomogging.com/compounds  Structured reference for peptides, GLP-1s, SARMs, and biohacking calculators.
