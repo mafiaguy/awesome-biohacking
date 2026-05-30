@@ -11,6 +11,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 <!-- omit in toc -->
 ## Contents
 - [Guide](#Guide)
+- [Projects](#Projects)
 - [Biolabs](#Biolabs)
 - [Communities](#Communities)
 - [Youtube](#YouTubeChannels)
@@ -34,6 +35,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Biotech in a Box](https://fralin.vt.edu/Outreach/BiotechInABox.html): Virginia Tech loans out kits for educators to teach kids how to engineer biology.
 
 - [Carolina Scientific](https://www.carolina.com/biotechnology-teaching-resources/10101.ct): General all-purpose science education kits.
+
+# Projects:-
+
+- [Longevity World Cup](https://longevityworldcup.com/) - Open-source biological-age competition where longevity athletes rank by improvements on aging clocks.
 
 # Biolabs
 - [Appropedia](https://www.appropedia.org/Open-source_Lab)
