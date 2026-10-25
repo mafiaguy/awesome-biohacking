@@ -40,6 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Longevity World Cup](https://longevityworldcup.com/) - Open-source biological-age competition where longevity athletes rank by improvements on aging clocks.
 - [Healify](https://www.healify.ai/) - AI health coach that reads Apple Health data and gives personal nutrition, sleep and workout advice.
+- [Dayhack](https://dayhack.app/) - Free biohacking journal for meals, water, workouts, sleep and urges, with no account. Log the day, then review the week.
 
 # Biolabs
 - [Appropedia](https://www.appropedia.org/Open-source_Lab)
