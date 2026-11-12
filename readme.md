@@ -39,6 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 # Projects:-
 
 - [Longevity World Cup](https://longevityworldcup.com/) - Open-source biological-age competition where longevity athletes rank by improvements on aging clocks.
+- [Hacked Self](https://hackedself.com/) - Guides that read the longevity research and check the numbers, from effect sizes to what a protocol actually costs.
 - [Healify](https://www.healify.ai/) - AI health coach that reads Apple Health data and gives personal nutrition, sleep and workout advice.
 
 # Biolabs
