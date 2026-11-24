@@ -40,6 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Longevity World Cup](https://longevityworldcup.com/) - Open-source biological-age competition where longevity athletes rank by improvements on aging clocks.
 - [Healify](https://www.healify.ai/) - AI health coach that reads Apple Health data and gives personal nutrition, sleep and workout advice.
+- [PepVault](https://pepvault.app) - PepVault is an iPhone tracker for peptide and GLP-1 protocols: doses, reminders, vials, sites, weight and bloodwork. Free to try, with a free web library.
 
 # Biolabs
 - [Appropedia](https://www.appropedia.org/Open-source_Lab)
