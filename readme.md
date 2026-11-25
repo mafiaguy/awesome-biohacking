@@ -40,6 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Longevity World Cup](https://longevityworldcup.com/) - Open-source biological-age competition where longevity athletes rank by improvements on aging clocks.
 - [Healify](https://www.healify.ai/) - AI health coach that reads Apple Health data and gives personal nutrition, sleep and workout advice.
+- [Longevity Review](https://longevityfrontier.co/protocols) - Popular longevity protocols (Bryan Johnson's Blueprint, David Sinclair's stack) graded element by element against the human evidence, from a free catalog of 55 graded interventions.
 
 # Biolabs
 - [Appropedia](https://www.appropedia.org/Open-source_Lab)
